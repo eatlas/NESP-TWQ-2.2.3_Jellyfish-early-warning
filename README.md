@@ -9,4 +9,4 @@ Irukandji analysis
 28/11/2017
 Anthony J. Richardson
 
-Jellyfish Forecasting System - Irukanji Analysis: development of forecast models for the risk of Irukanji and stinger events using the Venomous Jellyfish Database. This project used generalized linear and additive models relating to sting events to concurrent environmental variables including time series of modelled winds (e.g., European Reanalysis) and tides (MetOffice).
+Jellyfish Forecasting System - Irukanji Analysis: development of forecast models for the risk of Irukanji and stinger events using the Venomous Jellyfish Database. This project used generalized linear and additive models relating to sting events to concurrent environmental variables including time series of modelled winds (European Centre for Medium-Range Weather forecasting (ECMWF)) and tides (Australian Bureau of Meteorolog).
