@@ -1,4 +1,4 @@
-NESP_2.2.3_Jellyfish-early-warning
+NESP-TWQ-2.2.3_Jellyfish-early-warning
 
 Code developed as part of NESP TWQ Project 2.2.3 Early warning systems to minimize the risk of box jellyfish stings by empowering stakeholders
 
